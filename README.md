@@ -26,7 +26,7 @@ Sua missão nessas nossa jornada é criar uma solução para o acesso a cotaçã
    
   - O que vamos avaliar:
     ```
-	  * Sua solução para cotação diária;
+    * Sua solução para cotação diária;
     * Documento de análise descrevendo o motivo da decisão por determinado formato de moeda;
     * Documento de análise com as definições das regras definidas para a solução;
     * Código da solução de cotação diária; 
@@ -37,11 +37,11 @@ Sua missão nessas nossa jornada é criar uma solução para o acesso a cotaçã
 
 ### Instruções
       1. Faça o fork do desafio;
-      2. Crie um repositório privado no bitbucket para o projeto e adicione como colaborador o usuário conductordev;
+      2. Crie um repositório privado no bitbucket para o projeto e adicione como colaborador o usuário conductoranalistarequisitos;
       3. Desenvolva. Você terá 7 (sete) dias a partir da data do envio do desafio; 
       4. Após concluir seu trabalho faça um push; 
       5. Envie um e-mail ao RH Conductor notificando a finalização do desafio para validação.
 
-Contamos com a sua solução para montarmos a primeira criptomoeda Marciana!
+Contamos com a sua solução para montarmos a primeira moeda Marciana!
 
 #SomosTodosConductor #toMarts #RumoaMarte #CONDUCTORCoin

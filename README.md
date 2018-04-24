@@ -37,7 +37,7 @@ Sua missão nessas nossa jornada é criar uma solução para o acesso a cotaçã
 
 ### Instruções
       1. Faça o fork do desafio;
-      2. Crie um repositório privado no bitbucket para o projeto e adicione como colaborador o usuário conductoranalistarequisitos;
+      2. Crie um repositório privado no bitbucket para o projeto e adicione como colaborador o usuário conductordev;
       3. Desenvolva. Você terá 7 (sete) dias a partir da data do envio do desafio; 
       4. Após concluir seu trabalho faça um push; 
       5. Responda ao e-mail enviado do desafio, adicionando cópia para geeks-aquisicaodetalentos@Conductor.onmicrosoft.com notificando a finalização do desafio para validação.
